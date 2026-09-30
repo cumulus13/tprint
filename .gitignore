@@ -5,3 +5,10 @@
 
 # Added entries (1 items)
 debug.log
+
+# Added entries (2 items)
+__pycache__/
+ghw.egg-info/
+
+# Added entries (1 items)
+trprint.egg-info/
