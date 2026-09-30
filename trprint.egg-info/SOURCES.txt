@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+trprint/__init__.py
+trprint.egg-info/PKG-INFO
+trprint.egg-info/SOURCES.txt
+trprint.egg-info/dependency_links.txt
+trprint.egg-info/top_level.txt
