@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "trprint"
-version = "1.0.2"
+version = "1.0.3"
 description = "Custom traceback printer"
 readme = "README.md"
 authors = [

@@ -18,7 +18,7 @@ pip install trprint
        print(sys.argv[1])
     except:
        tprint()
-       
+
 >>> # output with colors:
  2026-09-30 20:08:52.888009 - <class 'IndexError'> : list index out of range
     File "<ipython-input-4-05d459f38238>", line 2, in <module>
@@ -29,7 +29,7 @@ pip install trprint
 
 ```
 
-[![Screenshot](https://raw.githubusercontent.com/cumulus13/trprint/master/screenshot.png)](https://raw.githubusercontent.com/cumulus13/trprint/master/screenshot.png)
+[![Screenshot](https://raw.githubusercontent.com/cumulus13/tprint/master/screenshot.png)](https://raw.githubusercontent.com/cumulus13/tprint/master/screenshot.png)
 
 
 ## 👤 Author
