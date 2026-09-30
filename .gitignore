@@ -12,3 +12,8 @@ ghw.egg-info/
 
 # Added entries (1 items)
 trprint.egg-info/
+
+# Added entries (1 items)
+gitignore_backup/
+# PT backup directory
+.pt/
